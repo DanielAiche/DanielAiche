@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A full-stack software engineer from Sydney, Australia</h3>
 
-- 🔭 I’m currently working on [an NRL Machine Learning predictor](https://github.com/DanielAiche/NRLScraping)
+- 🔭 I’m currently working on [a Figma clone with complete real-time collaboration functionality](https://github.com/DanielAiche/figmateams-project)
 
 - 🌱 I’m currently learning **NextJS, Go and R**
 
